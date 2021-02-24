@@ -1,6 +1,4 @@
-# Monopoly
-
-## Variables
+# Variables
 
 > _Note: All these variables are declared and initialised in `main()` itself. The variables used in other parts of the program are for local calculations only._
 >
@@ -22,7 +20,7 @@
     - If a property is owned by a player: `player number in negative`
 
 ---
-## Functions
+# Functions
 
 ```
 static void main()
