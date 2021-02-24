@@ -63,6 +63,3 @@ In case of an auction, the main() method calls this method. It handles all of th
 private void winner(int[] property,int[] money,int[] cost,intn)
 ```
 This function determines the winner in case the game ends. It does not return any value, since it directly displays the winner in the terminal, and exits the program after that. It adds up the sum of the cost of the properties and the players' current money in the accounts. The player with the most amount of money, in properties and in money added, will be the winner.
-
-
----
